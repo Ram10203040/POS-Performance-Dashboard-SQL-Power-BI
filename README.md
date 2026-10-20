@@ -131,7 +131,7 @@ scripts in the `SQL queries` folder for the implemented logic.
 
 ### Page 1: Overview
 
-![Overview dashboard screenshot](screenshots/01-overview.png)
+![Overview dashboard screenshot](screenshots/overview.png)
 
 The overview page summarizes the main operational KPIs and highlights
 the monthly movement in STP and SLA performance.
